@@ -1,6 +1,6 @@
 # Alpha Vantage Stocks
 
-This project is a React-based dashboard that displays stock data fetched from the Alpha Vantage API. It uses TailwindCSS for styling and is built with TypeScript to ensure type safety and better development experience.
+This project is a React-based dashboard that displays stock data fetched from the Alpha Vantage API. It uses TailwindCSS for styling and is built with Vite React
 
 ## Features
 

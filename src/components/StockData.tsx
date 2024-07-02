@@ -1,4 +1,3 @@
-// src/components/StockData.tsx
 import React from 'react';
 import { useAlphaVantage } from '../hooks/useAlphaVantage';
 import Table from './Table';

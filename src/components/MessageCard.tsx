@@ -12,7 +12,7 @@ const MessageCard: React.FC<MessageCardProps> = ({ message, isError = false, isL
   let style = baseStyle;
 
   if (isError) {
-    style += " text-red-500"; // Add red color for error messages
+    style += " text-red-500";
   }
 
   return (
